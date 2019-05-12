@@ -1,3 +1,4 @@
+// Original from https://github.com/mylob/ESP-To-IFTTT/blob/master/ESP8266_To_IFTTT/DataToMaker.h
 #include <Arduino.h>
 #include <ESP8266WiFi.h>
 
